@@ -8,6 +8,7 @@ I enjoy turning real-world problems into clean, scalable backend systems.
 
 ## 🧠 What I build
 
+```text
 [ Client / UI ]
        |
        v
@@ -23,17 +24,19 @@ I enjoy turning real-world problems into clean, scalable backend systems.
        v
 [ External APIs ]
 (Google, WhatsApp, CRMs, Email, etc.)
+````
 
 ---
 
 ## ⚙️ Example: API-first mindset
 
-python
+```python
 @app.post("/webhook/inbound")
 async def handle_message(payload: InboundMessage):
     intent = classify_intent(payload.text)
     response = bot_router(intent, payload.text)
     return {"reply": response}
+```
 
 This structure keeps a clean separation between:
 
