@@ -77,7 +77,7 @@ Building small but complete backend products to demonstrate:
 
 ---
 
-📫 Open to freelance and contract work.
+## 📫 Open to freelance and contract work.
 
 * Email: jhonatanrodriguesdasilva01@gmail.com
 * Cel.: (+55)11995220015
