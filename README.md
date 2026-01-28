@@ -76,9 +76,9 @@ Building small but complete backend products to demonstrate:
 * automation-first design
 
 📫 Open to freelance and contract work.
-'''
+```
 Email: jhonatanrodriguesdasilva01@gmail.com
 Cel.: (+55)11995220015
 Linkedin: https://www.linkedin.com/in/jhonatanrodrigues6714/
-'''
+```
 
