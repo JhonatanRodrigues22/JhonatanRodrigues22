@@ -76,5 +76,3 @@ Building small but complete backend products to demonstrate:
 * automation-first design
 
 📫 Open to freelance and contract work.
-
-```
