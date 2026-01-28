@@ -1,86 +1,47 @@
-# Hi, I'm Jhonatan 👋
+# 👋 Olá, eu sou o Jhonatan
 
-I'm a Python backend developer focused on building APIs, automation workflows, and SaaS backends.
+Sou desenvolvedor Python focado em **automação de tarefas**, **web scraping** e **integração de dados**.
 
-I enjoy turning real-world problems into clean, scalable backend systems.
-
----
-
-## 🧠 What I build
-
-```text
-[ Client / UI ]
-       |
-       v
-[ REST API — FastAPI ]
-       |
-       v
-[ Business Logic ]
-       |
-       +── Automation & Workflows
-       +── Chatbots / Webhooks
-       +── Data Processing (CSV / JSON)
-       |
-       v
-[ External APIs ]
-(Google, WhatsApp, CRMs, Email, etc.)
-````
+Ajudo pessoas e pequenos negócios a economizar tempo automatizando processos manuais como planilhas, coleta de dados, relatórios e integração entre sistemas.
 
 ---
 
-## ⚙️ Example: API-first mindset
-
-```python
-@app.post("/webhook/inbound")
-async def handle_message(payload: InboundMessage):
-    intent = classify_intent(payload.text)
-    response = bot_router(intent, payload.text)
-    return {"reply": response}
-```
-
-This structure keeps a clean separation between:
-
-* input validation
-* intent detection
-* business rules
-* external integrations
+## 🚀 O que eu faço
+- Automação de tarefas repetitivas em Python  
+- Web scraping para coleta de dados  
+- Criação de APIs backend para integração de sistemas  
+- Organização de fluxos de dados e processos internos  
 
 ---
 
-## 🧪 Recent work
+## 🧠 Como posso ajudar
+Se você:
+- perde tempo com tarefas manuais  
+- trabalha com planilhas todos os dias  
+- precisa coletar dados da internet  
+- tem sistemas que não se comunicam  
 
-* WhatsApp Business Platform chatbot (CSV-driven)
-* Automation flows triggered by chat commands
-* Bulk messaging simulation with delivery metrics
-* Fully documented APIs using Swagger / OpenAPI
-* Docker-ready backend services
-
----
-
-## 🛠️ Tech stack
-
-* Python · FastAPI · Pydantic
-* REST APIs · Webhooks
-* Docker · OpenAPI / Swagger
-* Data-driven workflows
-* LLM-ready architectures
+Provavelmente dá pra **automatizar**.
 
 ---
 
-## 🚀 What I'm doing now
+## 🛠 Tecnologias
+- Python  
+- Flask  
+- Automação de processos  
+- Web Scraping  
+- APIs REST  
+- Git  
 
-Building small but complete backend products to demonstrate:
+---
 
-* real-world architecture
-* production-ready patterns
-* automation-first design
+## 📂 Projetos em destaque
+- **AutoOps** – Automação de tarefas operacionais em Python  
+- **Backend API Demo** – API backend para integração de sistemas  
 
 ---
 
-## 📫 Open to freelance and contract work.
-
-* Email: jhonatanrodriguesdasilva01@gmail.com
-* Cel.: (+55)11995220015
-* Linkedin: https://www.linkedin.com/in/jhonatanrodrigues6714/
-
----
+## 📬 Contato
+📌 LinkedIn: https://www.linkedin.com/in/jhonatanrodrigues6714  
+📌 GitHub: https://github.com/JhonatanRodrigues22
+📌 Celular: (+55)11995220015
