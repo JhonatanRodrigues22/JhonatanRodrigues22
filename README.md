@@ -43,5 +43,5 @@ Provavelmente dá pra **automatizar**.
 
 ## 📬 Contato
 📌 LinkedIn: https://www.linkedin.com/in/jhonatanrodrigues6714  
-📌 GitHub: https://github.com/JhonatanRodrigues22
-📌 Celular: (+55)11995220015
+📌 GitHub: https://github.com/JhonatanRodrigues22  
+📌 Celular: (+55)11995220015  
