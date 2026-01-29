@@ -35,12 +35,6 @@ Provavelmente dá pra **automatizar**.
 
 ---
 
-## 📂 Projetos em destaque
-- **AutoOps** – Automação de tarefas operacionais em Python  
-- **Backend API Demo** – API backend para integração de sistemas  
-
----
-
 ## 📬 Contato
 📌 LinkedIn: https://www.linkedin.com/in/jhonatanrodrigues6714  
 📌 GitHub: https://github.com/JhonatanRodrigues22  
